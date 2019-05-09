@@ -16,7 +16,7 @@ release|seq|0.04
 release|par|0.44
 release|par_unseq|0.43
 
-[실험 대상 알고리즘 코드 (클릭해서 보기)](https://github.com/Othereum/Problem-Solving/blob/master/Algospot/%EC%A1%B0%ED%95%A9%ED%83%90%EC%83%89/CLOCKSYNC.cpp#L52)
+[실험 대상 알고리즘 코드 (클릭하면 이동)](https://github.com/Othereum/Problem-Solving/blob/master/Algospot/%EC%A1%B0%ED%95%A9%ED%83%90%EC%83%89/CLOCKSYNC.cpp#L52)
 
 당황스러웠다. 순차 실행보다 병렬 실행이 더 느리다니? 심지어 release 빌드에서는 차이가 무려 11배나 났다. 납득할만한 이유를 찾아야만 했다. 혹시 멀티스레드로 작동하지 않았나? 그래서 `[](int i) {return i == 12; }` 부분을 따로 함수로 빼서 중단점을 걸어봤다.
 

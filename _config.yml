@@ -109,7 +109,7 @@ author:
   name             : "Othereum"
   avatar           : "/assets/images/Othereum.png"
   bio              : "게임 클라이언트 프로그래머 지망생"
-  location         : "Somewhere"
+  # location         : "Somewhere"
   email            : "seokjin.dev@gmail.com"
   links:
     - label: "Email"

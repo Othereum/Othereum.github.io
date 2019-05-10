@@ -159,6 +159,7 @@ include:
   - .htaccess
   - _pages
   - "/google032884111d1fbce9.html"
+  - "/naver093e603086dfe6a1bb913f780eb6b211.html"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

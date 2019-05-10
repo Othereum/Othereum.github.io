@@ -158,7 +158,7 @@ footer:
 include:
   - .htaccess
   - _pages
-  - "google032884111d1fbce9.html"
+  - "/google032884111d1fbce9.html"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

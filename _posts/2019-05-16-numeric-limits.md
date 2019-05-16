@@ -1,6 +1,6 @@
 ---
-title: "C++ numeric_limits, min? lowest? 뭔 차이?"
-date: 2019-05-16 19:11:00 +0900
+title: "C++11 numeric_limits, min? lowest? 뭔 차이?"
+date: 2019-05-16 19:14:00 +0900
 categories: C++
 ---
 `numeric_limits`. 산술 타입의 다향한 속성을 표준화된 방법으로 조회할 수 있는 특성 정보 (traits) 클래스다. 예를 들어 int의 최대값은 `numeric_limits<int>::max()`, 최소값은 `numeric_limits<int>::min()`이다. 너무나 직관적이고 당연하며, 의문점도 설명할 것도 없다. 하지만 한 가지 특이점이 있다.

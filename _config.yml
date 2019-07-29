@@ -112,9 +112,6 @@ author:
   location         : "대덕소프트웨어마이스터고등학교"
   email            : "seokjin.dev@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:seokjin.dev@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

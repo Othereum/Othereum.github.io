@@ -1,6 +1,6 @@
 ---
 title: "[C++] template 및 typename 키워드의 두 가지 의미"
-date: 2019-08-25 17:30:00 +0900
+date: 2019-08-25 18:00:00 +0900
 categories: C++
 ---
 

@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "Othereum의 개발 블로그"
 title_separator          : "-"
 name                     : "Othereum"
-description              : "게임 프로그래머 지망생의 개발 및 공부 이야기"
+description              : "게임 프로그래머의 개발 및 공부 이야기"
 url                      : "https://othereum.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Othereum"
   avatar           : "/assets/images/Othereum.png"
-  bio              : "게임 클라이언트 프로그래머 지망생"
+  bio              : "게임 프로그래머"
   location         : "대덕소프트웨어마이스터고등학교"
   email            : "seokjin.dev@gmail.com"
   links:
